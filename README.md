@@ -1,2 +1,2 @@
-# C-40
-rewards and obstacles
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
